@@ -1,0 +1,12 @@
+Data Sheet,Test Case Name,ALM Test Lab Test Set ID,Execute,Browser,Browser Version,Platform,Feature File Name,Priority,Module,SubModule,Sprint,Channel,Package,ALM Test Lab Test Set,ALM Test Plan Test Set,RunIterations,SauceLabs
+Demo,Search for keyword,,Yes,Chrome,46,Windows 8.1,Demo,Priority1,Search2,QA,Current,Desktop,MCBrowse,,,Yes,Yes
+Demo,Search for keyword multi iteration,,No,Chrome,46,Windows 7,Demo,P1,Certona,QA,Current,Desktop,MCBrowse,,,No,Yes
+Demo,Search for keyword multi-iteration,,No,Chrome,46,Windows 7,Demo,P1,Certona,QA,Current,Desktop,MCBrowse,,,Yes,Yes
+Demo,Place online STH order,,No,Chrome,46,Windows 7,Demo,P1,Certona,QA,Current,Desktop,MCBrowse,,,Yes,Yes
+Demo,Place order using a NEW Credit Card as Guest user,,No,Emulator,,,OtherExamples,P2,Certona,QA,Current,Desktop,MCBrowse,,,Yes,Yes
+Demo,Test Doc String With background and Iteration TC 1,,No,Chrome,46,Windows 7,OtherExamples,P2,Certona,QA,Current,Desktop,MCBrowse,,,Yes,Yes
+Demo,Steps for Gherkin Dictionary,,No,Chrome,46,Windows 7,ScenarioDictionary,Priority1,Search,QA,Current,Desktop,MCBrowse,,,Yes,Yes
+Demo,Validate AB testing,,No,Chrome,46,Windows 7,ABTesting,P3,Certona,QA,Current,Desktop,MCBrowse,,,Yes,Yes
+Demo,Table Data No Iteration Examples,,No,Chrome,46,Windows 7,TableDataExample,Priority1,TableData,QA,Current,Desktop,MCBrowse,,,Yes,Yes
+Demo,Table Data Iteration Examples,,No,Chrome,46,Windows 7,TableDataExample,Priority1,TableData,QA,Current,Desktop,MCBrowse,,,Yes,Yes
+Demo,Test PIP page,,No,Chrome,46,Windows 7,DemoPIP,Priority1,TableData,QA,Current,Desktop,MCBrowse,,,Yes,Yes
